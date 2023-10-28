@@ -2,15 +2,19 @@
 
 <!--
 **Pieta9221/Pieta9221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+[![An image of @pieta9221's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pieta9221)](https://holopin.io/@pieta9221)
+
+### I am a Frontend Developer
+
+- 🌱 I’m currently learning Vue 
+- 👯 I’m looking to collaborate on Vue 3 Projects
+- ⚡ Fun fact: I love reading, watching movies and traveling
+
+## Projects
+
+- **Foodie Project:** A website where customers can order meals and have them delivered. Created with HTML, CSS, Bootstrap, MySQL, and PHP. [Foodie](https://github.com/Pieta9221/foodie_project)
+
+- **LM Tech Website:** Educational website where students and educators can interact. Developed with HTML, CSS, Bootstrap, MySQL, and PHP. [LM Tech Website](https://github.com/pieta9221/capstone)
+
+- **FitLife 360 Website:** Connects trainers and trainees, giving them a fitLife experience from the comfort of their homes. Created with React, Python, and MySQL. [FitLife360](https://github.com/pieta9221/fitlife360)
