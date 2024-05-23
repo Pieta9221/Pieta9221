@@ -7,11 +7,13 @@
 
 ### I am a Frontend Developer
 
-- 🌱 I’m currently learning Vue 
-- 👯 I’m looking to collaborate on Vue 3 Projects
-- ⚡ Fun fact: I love reading, watching movies and traveling
+- 🌱 I’m currently learning Next JS
+- 👯 I’m looking to collaborate on Next JS Projects
+- ⚡ Fun fact: I love reading, watching movies and travelling
 
 ## Projects
+
+- **Pizzon App:** A website where customers can order and make payment for Pizza and have it delivered. Created with Next JS, Tailwind CSS, MongoDB with PayPal Integration. [Pizzon](https://github.com/Pieta9221/Flit-Pizza-Ordering-Web-App)
 
 - **Foodie Project:** A website where customers can order meals and have them delivered. Created with HTML, CSS, Bootstrap, MySQL, and PHP. [Foodie](https://github.com/Pieta9221/foodie_project)
 
